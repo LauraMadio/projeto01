@@ -6,3 +6,4 @@ Comandos SQL tabelas 03
 
 Comandos de inclusão de dados 
 Comandos SQL 
+Mais comandos 
